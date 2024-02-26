@@ -43,9 +43,9 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name] - GitHub Profile
+[MAUSAM GAIKWAD] - GitHub Profile
 
 ## Acknowledgments
-This project is inspired by [X course/tutorial/resource].
-Special thanks to [anyone who helped or contributed].
-Icons made by [author name] from [www.flaticon.com].
+* This project is inspired by [X course/tutorial/resource].
+* Special thanks to [anyone who helped or contributed].
+* Icons made by [author name] from [www.flaticon.com].
