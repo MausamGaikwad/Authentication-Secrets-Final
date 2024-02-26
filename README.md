@@ -9,21 +9,18 @@ This project is a web application built with Node.js, Express, and MongoDB, allo
 * Display of submitted secrets from authenticated users.
 * Logout functionality to end user sessions.
 ## Setup
-Clone the repository:
-bash
+1. Clone the repository:
 Copy code
 git clone https://github.com/MausamGaikwad/Authentication-Secrets-Final.git
-Install dependencies:
-bash
+2. Install dependencies:
 Copy code
 npm install
-Set up a MongoDB database and provide the connection URI in the .env file.
-Obtain Google OAuth credentials and update the .env file with the client ID and secret.
-Start the server:
-bash
+3. Set up a MongoDB database and provide the connection URI in the .env file.
+4. Obtain Google OAuth credentials and update the .env file with the client ID and secret.
+5. Start the server:
 Copy code
 npm start
-Access the application in your web browser at http://localhost:3000.
+6. Access the application in your web browser at http://localhost:3000.
 ## Usage
 * Register a new account or sign in using your Google account.
 * Share your secrets anonymously on the platform.
