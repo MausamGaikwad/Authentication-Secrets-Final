@@ -24,11 +24,11 @@ bash
 Copy code
 npm start
 Access the application in your web browser at http://localhost:3000.
-Usage
+## Usage
 Register a new account or sign in using your Google account.
 Share your secrets anonymously on the platform.
 View secrets submitted by other users.
-Technologies Used
+## Technologies Used
 Node.js
 Express
 MongoDB
@@ -36,10 +36,10 @@ Passport.js
 OAuth 2.0 (Google)
 EJS (Embedded JavaScript)
 Bootstrap
-Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
