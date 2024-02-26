@@ -2,7 +2,7 @@
 
 This project is a web application built with Node.js, Express, and MongoDB, allowing users to authenticate, share secrets, and sign in via Google OAuth 2.0.
 
-Features
+## Features
 User registration and login with username/password or Google OAuth.
 Secure password storage using Passport.js and bcrypt.
 Ability for authenticated users to submit secrets anonymously.
@@ -49,7 +49,3 @@ Acknowledgments
 This project is inspired by [X course/tutorial/resource].
 Special thanks to [anyone who helped or contributed].
 Icons made by [author name] from [www.flaticon.com].
-
-
-
-
