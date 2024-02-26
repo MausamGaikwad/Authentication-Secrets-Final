@@ -40,9 +40,9 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-[MAUSAM GAIKWAD] - GitHub Profile
+[MAUSAM GAIKWAD]()
 
 ## Acknowledgments
-* This project is inspired by [X course/tutorial/resource].
-* Special thanks to [anyone who helped or contributed].
-* Icons made by [author name] from [www.flaticon.com].
+* This project is inspired by the course/tutorial by Angela Yu on [Udemy](https://www.udemy.com).
+* Special thanks to Angela Yu for the valuable instruction and guidance.
+* Icons made from a third-party resource (e.g., icon packs, websites). Ensure to comply with the usage terms and conditions.
