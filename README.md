@@ -25,9 +25,9 @@ Copy code
 npm start
 Access the application in your web browser at http://localhost:3000.
 ## Usage
-Register a new account or sign in using your Google account.
-Share your secrets anonymously on the platform.
-View secrets submitted by other users.
+* Register a new account or sign in using your Google account.
+* Share your secrets anonymously on the platform.
+* View secrets submitted by other users.
 ## Technologies Used
 * Node.js
 * Express
