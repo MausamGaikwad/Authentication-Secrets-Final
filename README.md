@@ -1,5 +1,4 @@
 # Authentication-Secrets
-Authentication Secrets
 
 This project is a web application built with Node.js, Express, and MongoDB, allowing users to authenticate, share secrets, and sign in via Google OAuth 2.0.
 
