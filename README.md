@@ -11,16 +11,16 @@ This project is a web application built with Node.js, Express, and MongoDB, allo
 ## Setup
 1. Clone the repository:
 Copy code
-git clone https://github.com/MausamGaikwad/Authentication-Secrets-Final.git
+`git clone https://github.com/MausamGaikwad/Authentication-Secrets-Final.git`
 2. Install dependencies:
 Copy code
-npm install
-3. Set up a MongoDB database and provide the connection URI in the .env file.
-4. Obtain Google OAuth credentials and update the .env file with the client ID and secret.
+`npm install`
+3. Set up a MongoDB database and provide the connection URI in the `.env` file.
+4. Obtain Google OAuth credentials and update the `.env` file with the client ID and secret.
 5. Start the server:
 Copy code
-npm start
-6. Access the application in your web browser at http://localhost:3000.
+`npm start`
+6. Access the application in your web browser at `http://localhost:3000`.
 ## Usage
 * Register a new account or sign in using your Google account.
 * Share your secrets anonymously on the platform.
