@@ -29,13 +29,13 @@ Register a new account or sign in using your Google account.
 Share your secrets anonymously on the platform.
 View secrets submitted by other users.
 ## Technologies Used
-Node.js
-Express
-MongoDB
-Passport.js
-OAuth 2.0 (Google)
-EJS (Embedded JavaScript)
-Bootstrap
+* Node.js
+* Express
+* MongoDB
+* Passport.js
+* OAuth 2.0 (Google)
+* EJS (Embedded JavaScript)
+* Bootstrap
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features.
 
