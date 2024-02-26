@@ -8,7 +8,7 @@ Secure password storage using Passport.js and bcrypt.
 Ability for authenticated users to submit secrets anonymously.
 Display of submitted secrets from authenticated users.
 Logout functionality to end user sessions.
-Setup
+## Setup
 Clone the repository:
 bash
 Copy code
