@@ -40,7 +40,7 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-[MAUSAM GAIKWAD]()
+[MAUSAM GAIKWAD](https://github.com/MausamGaikwad)
 
 ## Acknowledgments
 * This project is inspired by the course/tutorial by Angela Yu on [Udemy](https://www.udemy.com).
